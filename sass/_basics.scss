@@ -19,4 +19,5 @@ body {
 .hero {
 	@include mixinsfunc.crear-flexbox(center);
 	flex-direction: column;
+	
 }

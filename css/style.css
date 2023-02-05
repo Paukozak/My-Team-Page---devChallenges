@@ -47,4 +47,10 @@ body {
   flex-direction: column;
 }
 
+.pictures {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /*# sourceMappingURL=style.css.map */
