@@ -1,18 +1,22 @@
 @use 'mixinsfunc';
 
 .header {
-    width: 80%;
+    width: 70%;
     @include mixinsfunc.crear-flexbox(center);
+    margin-top: 7rem;
 
     &__title {
         font-family: 'PT Serif', serif;
         font-weight: 700;
         font-size: 3.6rem;
+        width: 100rem;
+        padding-bottom: 7rem;
     }
 
     &__text {
         font-family: 'Poppins', sans-serif;
         font-size: 1.8rem;
+        width: 70rem;
 
         h4 {
             font-weight: 600;
