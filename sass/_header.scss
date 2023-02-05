@@ -1,0 +1,27 @@
+@use 'mixinsfunc';
+
+.header {
+    width: 80%;
+    @include mixinsfunc.crear-flexbox(center);
+
+    &__title {
+        font-family: 'PT Serif', serif;
+        font-weight: 700;
+        font-size: 3.6rem;
+    }
+
+    &__text {
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.8rem;
+
+        h4 {
+            font-weight: 600;
+        }
+
+        p {
+            font-weight: 400; 
+        }
+
+    }
+
+}
