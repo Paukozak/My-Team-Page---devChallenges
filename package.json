@@ -1,0 +1,23 @@
+{
+  "name": "my_team_page",
+  "version": "1.0.0",
+  "description": "A small challenge from devChallenges.io ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paukozak/My-Team-Page-devChallenges-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paukozak/My-Team-Page-devChallenges-/issues"
+  },
+  "homepage": "https://github.com/Paukozak/My-Team-Page-devChallenges-#readme",
+  "devDependencies": {
+    "sass": "^1.58.0"
+  }
+}
