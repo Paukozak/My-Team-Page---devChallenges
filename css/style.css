@@ -85,6 +85,25 @@ body {
   margin-top: 0;
 }
 
+.footer {
+  margin-top: 10rem;
+  margin-bottom: 2rem;
+}
+.footer__text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #A9A9A9;
+  display: inline-block;
+}
+.footer__text a {
+  color: #A9A9A9;
+  text-decoration: underline;
+}
+.footer__text--2 {
+  font-weight: 500;
+}
+
 /*font-family: 'Montserrat', sans-serif;
 font-family: 'Poppins', sans-serif;
 font-family: 'PT Serif', serif;*/
