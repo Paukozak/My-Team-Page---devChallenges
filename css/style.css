@@ -67,7 +67,7 @@ body {
   font-weight: 400;
   font-size: 1.2rem;
   position: relative;
-  -webkit-transform: rotate(-270deg);
+  -webkit-transform: rotate(90deg);
   top: 21rem;
   left: 22rem;
 }
