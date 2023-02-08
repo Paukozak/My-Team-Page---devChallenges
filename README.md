@@ -52,5 +52,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Paukozak](https://{github.com/your-usermame})
+- GitHub [@Paukozak](https://github.com/Paukozak)
 
