@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://paukozak.github.io/My-Team-Page---devChallenges/}">
+    <a href="https://paukozak.github.io/My-Team-Page---devChallenges/">
       Demo
     </a>
     <span> | </span>
